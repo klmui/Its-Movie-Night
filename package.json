@@ -1,0 +1,24 @@
+{
+  "name": "itsmovienight",
+  "version": "1.0.0",
+  "description": "It's Movie Night is a simple web application that uses data from IMDB or OMBD and lets users search for movies! The purpose was to learn how to interact with APIs.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klmui/Its-Movie-Night.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klmui/Its-Movie-Night/issues"
+  },
+  "homepage": "https://github.com/klmui/Its-Movie-Night#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  }
+}
